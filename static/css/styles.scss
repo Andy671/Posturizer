@@ -1,0 +1,54 @@
+.header-title {
+  color: white;
+  font-size: 22px;
+  i {
+    padding-right: 12px;
+  }
+}
+
+.login-button-div {
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  i {
+    padding-right: 8px;
+    padding-bottom: 20px;
+  }
+}
+
+.left-side-menu {
+  padding-top: 24px;
+}
+
+.dashboard-start-stop {
+  display: flex;
+  padding-top: 36px;
+  justify-content: center;
+}
+
+.dashboard-pie-charts {
+  display: flex;
+  padding-top: 72px;
+  padding-top: 48px;
+  justify-content: space-evenly;
+}
+
+.dashboard-pie-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dashboard-pie-title-single {
+  padding-right: 48px;
+  padding-left: 48px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
